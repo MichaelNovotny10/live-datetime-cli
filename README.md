@@ -1,5 +1,5 @@
 # live-datetime-cli
-A small terminal clock written in C. It prints the current date and time, live. Installs to `/usr/local/bin` with `make install`, and is ran with `live-datetime`.
+A small terminal clock written in C. It prints the current date and time, live. Installs to `/usr/local/bin` with `make install`, and is run with `live-datetime`.
 Feel free to change the code as you'd like. MIT License applies.
 
 ## Requirements
