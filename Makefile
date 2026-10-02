@@ -7,7 +7,7 @@ CFLAGS  = -Wall -Wextra
 .PHONY: build run clean install uninstall
 
 build:
-	$(CC) $(SRC) -o $(EXE)
+	$(CC) $(CFLAGS) $(SRC) -o $(EXE)
 
 run: build
 	./$(EXE)
